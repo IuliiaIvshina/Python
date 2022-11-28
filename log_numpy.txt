@@ -1,0 +1,30 @@
+C:\Windows\system32>pip install numpy
+Collecting numpy
+  Downloading numpy-1.23.5-cp311-cp311-win_amd64.whl (14.6 MB)
+     ------------------------------------- 14.6/14.6 MB 2.2 MB/s eta 0:00:00
+Installing collected packages: numpy
+Successfully installed numpy-1.23.5
+
+[notice] A new release of pip available: 22.3 -> 22.3.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+C:\Windows\system32>python.exe -m pip install --upgrade pip
+Requirement already satisfied: pip in c:\users\iuliiaiva\appdata\local\programs\python\python311\lib\site-packages (22.3)
+Collecting pip
+  Downloading pip-22.3.1-py3-none-any.whl (2.1 MB)
+     ------------------------------------- 2.1/2.1 MB 391.1 kB/s eta 0:00:00
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 22.3
+    Uninstalling pip-22.3:
+      Successfully uninstalled pip-22.3
+Successfully installed pip-22.3.1
+
+C:\Windows\system32>pip install openpyxl
+Collecting openpyxl
+  Downloading openpyxl-3.0.10-py2.py3-none-any.whl (242 kB)
+     ---------------------------------------- 242.1/242.1 kB 337.1 kB/s eta 0:00:00
+Collecting et-xmlfile
+  Downloading et_xmlfile-1.1.0-py3-none-any.whl (4.7 kB)
+Installing collected packages: et-xmlfile, openpyxl
+Successfully installed et-xmlfile-1.1.0 openpyxl-3.0.10

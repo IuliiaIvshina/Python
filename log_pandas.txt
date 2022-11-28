@@ -1,0 +1,17 @@
+C:\Windows\system32>pip install pandas
+Collecting pandas
+  Downloading pandas-1.5.2-cp311-cp311-win_amd64.whl (10.3 MB)
+     ---------------------------------------- 10.3/10.3 MB 1.7 MB/s eta 0:00:00
+Collecting python-dateutil>=2.8.1
+  Downloading python_dateutil-2.8.2-py2.py3-none-any.whl (247 kB)
+     ---------------------------------------- 247.7/247.7 kB 3.8 MB/s eta 0:00:00
+Collecting pytz>=2020.1
+  Downloading pytz-2022.6-py2.py3-none-any.whl (498 kB)
+     ---------------------------------------- 498.1/498.1 kB 3.1 MB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.21.0 in c:\users\iuliiaiva\appdata\local\programs\python\python311\lib\site-packages (from pandas) (1.23.5)
+Collecting six>=1.5
+  Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Installing collected packages: pytz, six, python-dateutil, pandas
+Successfully installed pandas-1.5.2 python-dateutil-2.8.2 pytz-2022.6 six-1.16.0
+
+C:\Windows\system32>
