@@ -1,3 +1,0 @@
-# Python
-for datascience
-#ReadMe
