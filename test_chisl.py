@@ -75,9 +75,3 @@ while train():
 print(f([1,0,0]))
 print(f([1,0,1]))
 print(f([1,0,0.2]))
-
-Me = np.eye(8)
-print(Me)
-
-for i in range(8):
-    print(f(D[i][0]))
