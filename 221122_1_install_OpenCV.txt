@@ -1,0 +1,9 @@
+C:\Windows\system32>pip install opencv-contrib-python --upgrade
+Collecting opencv-contrib-python
+  Downloading opencv_contrib_python-4.6.0.66-cp36-abi3-win_amd64.whl (42.5 MB)
+     ---------------------------------------- 42.5/42.5 MB 1.4 MB/s eta 0:00:00
+Requirement already satisfied: numpy>=1.21.2 in c:\users\iuliiaiva\appdata\local\programs\python\python311\lib\site-packages (from opencv-contrib-python) (1.23.5)
+Installing collected packages: opencv-contrib-python
+Successfully installed opencv-contrib-python-4.6.0.66
+
+C:\Windows\system32>
